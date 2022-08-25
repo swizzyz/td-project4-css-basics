@@ -1,0 +1,23 @@
+.header{
+    justify-content: space-around;
+    color: #ffffff; 
+    background-color: #4d9aad;  
+    flex-wrap: wrap;
+    display: flex;
+    width: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+.picture{
+    width: 45%;
+
+       
+}
+.profile flag{
+    width: ;
+}
+.profile h1{
+    color: #4d9aad;
+
+}
