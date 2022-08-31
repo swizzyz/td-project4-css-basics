@@ -39,7 +39,7 @@ html{
     display: block;
     margin-left: auto;
     margin-right: auto;
-text-align: center;
+    text-align: center;
 }
 .hubby{
     display: flex;
@@ -63,7 +63,7 @@ text-align: center;
 }
 .design{
     text-align: center;
-    height: 150x;
+    height: 150px;
     width: 250px;
     border-radius: 10px;
     background-color: #3F4E4F;
